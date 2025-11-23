@@ -28,11 +28,17 @@ Comprehensive performance evaluation (RMSE, MAE, R²)
 Clear insights into Bitcoin’s temporal price patterns
 
 # 🧰 Tech Stack
+
 Python
+
 Pandas, NumPy, Matplotlib, Seaborn
+
 Scikit-Learn
+
 TensorFlow / Keras (LSTM)
+
 SQLite (optional for data management)
+
 VS Code / Jupyter Notebook
 
 # 📊 Results
@@ -43,10 +49,15 @@ Provided insights into Bitcoin’s price dynamics and market volatility patterns
 
 # 📁 Dataset
 The project uses a minute-level Bitcoin market dataset (BTC-USD) sourced from Kaggle, containing:
+
 Timestamp (UNIX & datetime)
+
 Open, High, Low, Close
+
 Volume (BTC & USD)
+
 Over 525,000+ rows for the year 2017
+
 This high-frequency dataset is ideal for short-term forecasting and sequence modeling.
 
 # 🤝 Contributions
