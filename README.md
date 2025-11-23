@@ -47,6 +47,9 @@ LSTM model successfully captured key trends and short-term fluctuations
 Demonstrated effectiveness of sequence modeling on volatile financial time-series data
 Provided insights into Bitcoin’s price dynamics and market volatility patterns
 
+Processed 525K+ Kaggle records and achieved R² = 0.941, RMSE = 432.31, MAE = 347.14, 
+effectively modeling high-frequency volatility.
+
 # 📁 Dataset
 The project uses a minute-level Bitcoin market dataset (BTC-USD) sourced from Kaggle, containing:
 
