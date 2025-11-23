@@ -7,10 +7,15 @@ The model captures Bitcoin's volatility, temporal dependencies, and rapid market
 
 ## This project follows a structured pipeline:
 Data Loading & Cleaning: Handling missing values, converting timestamps, filtering anomalies.
+
 EDA: Understanding price trends, volatility patterns, correlations, and distribution of returns.
+
 Feature Engineering: Scaling, creating time sequences, selecting key predictors (Open, High, Low, Volume).
+
 Modeling: Designing and training an LSTM model with sequence learning capabilities.
+
 Evaluation: Using RMSE, MAE, MAPE, and visual comparison of actual vs. predicted prices.
+
 Insights: Interpreting model performance and understanding market behavior.
 
 # 📂 Key Features
